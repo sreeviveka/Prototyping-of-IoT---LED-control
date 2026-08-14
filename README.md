@@ -1,5 +1,5 @@
 
-# Exp no: 1 - LED CONTROL USING ARDUINO #
+# EXP NO: 1 - LED CONTROL USING ARDUINO #
 ## Name: V.S SREE VIVEKA ##
 ## Reg. no: 2305001031
 # Aim #
