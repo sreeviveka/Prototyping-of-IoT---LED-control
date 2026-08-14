@@ -87,9 +87,9 @@ Emergency Signaling System
 
 Weighing Machines
 
-## Circuit Diagram ##
 
-## Pragram  ##
+
+## Program  ##
 ```
 #include "main.h"
 void SystemClock_Config(void);
